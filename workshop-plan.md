@@ -1,5 +1,7 @@
 #Curriculum Design Workshop 
 
+![alt text](https://github.com/jvallera/curriculum-design-workshop/blob/master/products/IMG_1167.JPG "Image from workshop")
+
 **The goal of this workshop is to work collaboratively to quickly conceptualize and design engaging, varied, user-centered learning experiences. We’ll start from a spark of an idea and and use information about our audience and a set of constraints to come up with potential iterations, then narrow options to create a super rapid prototype.**
 
 The products will be documented and shared online.
